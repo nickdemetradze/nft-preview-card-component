@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/images/NFT screen.png)
+![](https://github.com/nickdemetradze/nft-preview-card-component/blob/6d8c806dbf620f1b2d2cdf6133a8517f64b86fc3/images/NFT%20screen.png)
 
 
 ### Links
